@@ -7,6 +7,7 @@ namespace ObjectOrientedPrograms
 {
     internal class InventoryImplementation
     {
+        
         private static string filepath = "H:/details.json";
 
         public static string Filepath { get => filepath; set => filepath = value; }
