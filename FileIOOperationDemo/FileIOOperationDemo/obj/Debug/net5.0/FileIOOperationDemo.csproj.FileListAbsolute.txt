@@ -1,0 +1,16 @@
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.exe
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.deps.json
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.runtimeconfig.json
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.runtimeconfig.dev.json
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.dll
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\bin\Debug\net5.0\FileIOOperationDemo.pdb
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.csproj.AssemblyReference.cache
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.AssemblyInfoInputs.cache
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.AssemblyInfo.cs
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.csproj.CoreCompileInputs.cache
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.dll
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\refint\FileIOOperationDemo.dll
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.pdb
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\FileIOOperationDemo.genruntimeconfig.cache
+H:\Assignment11&12\FileIOOperationDemo\FileIOOperationDemo\obj\Debug\net5.0\ref\FileIOOperationDemo.dll
